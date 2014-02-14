@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://svn.code.sf.net/p/projetperso/code-0"
+   name=""
+   revision="3"
+   schedule="delete"
+   last-author="ferreyd"
+   url="https://svn.code.sf.net/p/projetperso/code-0/%20projetperso-code-0/Projet%201/src/npc"
+   uuid="2f31ef2f-be02-41ee-935c-2ac878f4ff48"
+   committed-rev="3"
+   kind="dir"
+   committed-date="2013-05-12T11:12:21.732791Z"/>
+<entry
+   name="ListeNPC.java"
+   schedule="delete"
+   checksum="6c1760bebec5132ce50f98bb06c72326"
+   last-author="ferreyd"
+   committed-rev="3"
+   text-time="2013-05-12T11:12:21.732000Z"
+   kind="file"
+   committed-date="2013-05-12T11:12:21.732791Z"/>
+<entry
+   name="NPC.java"
+   schedule="delete"
+   checksum="6888bd49ad7b38ab87df7779a0c7e770"
+   last-author="ferreyd"
+   committed-rev="3"
+   text-time="2013-05-12T11:12:21.732000Z"
+   kind="file"
+   committed-date="2013-05-12T11:12:21.732791Z"/>
+</wc-entries>

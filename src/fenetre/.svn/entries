@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://svn.code.sf.net/p/projetperso/code-0"
+   revision="3"
+   schedule="delete"
+   last-author="ferreyd"
+   uuid="2f31ef2f-be02-41ee-935c-2ac878f4ff48"
+   url="https://svn.code.sf.net/p/projetperso/code-0/%20projetperso-code-0/Projet%201/src/fenetre"
+   committed-rev="3"
+   kind="dir"
+   committed-date="2013-05-12T11:12:21.732791Z"/>
+<entry
+   name="Fenetre.java"
+   schedule="delete"
+   checksum="cb52df6c352f91cccac142ecae2b3404"
+   last-author="ferreyd"
+   text-time="2013-05-12T11:12:21.732000Z"
+   committed-rev="3"
+   kind="file"
+   committed-date="2013-05-12T11:12:21.732791Z"/>
+</wc-entries>

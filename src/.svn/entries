@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://svn.code.sf.net/p/projetperso/code-0"
+   name=""
+   revision="3"
+   schedule="delete"
+   last-author="ferreyd"
+   url="https://svn.code.sf.net/p/projetperso/code-0/%20projetperso-code-0/Projet%201/src"
+   uuid="2f31ef2f-be02-41ee-935c-2ac878f4ff48"
+   committed-rev="3"
+   kind="dir"
+   committed-date="2013-05-12T11:12:21.732791Z"/>
+<entry
+   name="fenetre"
+   schedule="delete"
+   kind="dir"/>
+<entry
+   name="joueur"
+   schedule="delete"
+   kind="dir"/>
+<entry
+   name="npc"
+   schedule="delete"
+   kind="dir"/>
+</wc-entries>
